@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arsham
 - 👀 I’m interested in React & Nodejs & Golang
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Django
 - 📫 How to reach me Arsham.Ramezani@gmail.com
 
 <!---
